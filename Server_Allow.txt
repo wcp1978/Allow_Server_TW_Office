@@ -1,2 +1,5 @@
 @@||resources.trendmicro.com^
 @@||synergytek.com.tw^
+@@||yuanta.com.tw^
+@@||esunbank.com.tw^
+@@||taipeifubon.com.tw^

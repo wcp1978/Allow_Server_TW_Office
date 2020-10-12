@@ -1,3 +1,9 @@
+! 目前使用AdGuard Home，實際的效果還不錯
+! 實際使用上，出現許多誤攔的情況
+! 針對這個情況，我對於台灣辦公室的使用，進行了優化
+! 目前針對會被誤攔的防毒以及銀行進行放行的動作
+! Version:0.0.1 Update:2020/10/12
+
 @@||resources.trendmicro.com^
 @@||synergytek.com.tw^
 @@||yuanta.com.tw^

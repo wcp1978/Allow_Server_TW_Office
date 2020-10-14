@@ -9,3 +9,6 @@
 @@||yuanta.com.tw^
 @@||esunbank.com.tw^
 @@||taipeifubon.com.tw^
+
+! 20201014 微軟課程平台
+@@||event.on24.com^

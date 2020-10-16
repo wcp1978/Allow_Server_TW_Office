@@ -12,3 +12,6 @@
 
 ! 20201014 微軟課程平台
 @@||event.on24.com^
+
+! 20201016 資安網站
+@@||skyboxsecurity.com^

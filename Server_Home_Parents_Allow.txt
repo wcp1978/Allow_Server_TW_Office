@@ -1,0 +1,9 @@
+! 20201017 新增
+@@||yuanta.com.tw^$important
+@@||taobao.com^$important
+@@||1688.com^$important
+@@||rakuten.com.tw^$important
+@@||yahoo.com^$important
+@@||yimg.com^$important
+@@||updates.logitech.com^$important
+@@||news.ebc.net.tw^$important

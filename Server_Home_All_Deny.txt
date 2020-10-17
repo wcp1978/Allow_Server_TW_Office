@@ -1,16 +1,17 @@
 ! 20201017 以下是已知的成人網站
 
-|| www.85st.com^$important
-|| taohuazu.info^$important
-|| wuso.me^$important
-|| javtorrent.re^$important
-|| avsp2p.info^$important
-|| javhihi.com^$important
-|| jav789.com^$important
-|| javbuz.com^$important
-|| www1.javbuz.com^$important
-|| avsp2p.info^$important
-|| https://thebestgame2020.com^$important
+||www.85st.com^$important
+||taohuazu.info^$important
+||wuso.me^$important
+||javtorrent.re^$important
+||avsp2p.info^$important
+||javhihi.com^$important
+||jav789.com^$important
+||javbuz.com^$important
+||www1.javbuz.com^$important
+||avsp2p.info^$important
+||thebestgame2020.com^$important
+
 || www.cntvboxnow.com ^ $ script,forum-443-1.html
 || rarbgprx.org^ $ script,torrents.php,category=2;4
 

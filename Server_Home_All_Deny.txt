@@ -11,6 +11,10 @@
 ||www1.javbuz.com^$important
 ||avsp2p.info^$important
 ||thebestgame2020.com^$important
+||www.xiuren.org^$important
+||nudegirls4u.com^$important
+||t66y.com^$important
+||www.sehuatang.net^$important
 
 || www.cntvboxnow.com ^ $ script,forum-443-1.html
 || rarbgprx.org^ $ script,torrents.php,category=2;4

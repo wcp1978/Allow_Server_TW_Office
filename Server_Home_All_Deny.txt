@@ -16,6 +16,11 @@
 ||t66y.com^$important
 ||www.sehuatang.net^$important
 
+!20201023 成人網站
+||avgle.com^$important
+||pronhub.com^$important
+||netflav.com^$important
+
 || www.cntvboxnow.com ^ $ script,forum-443-1.html
 || rarbgprx.org^ $ script,torrents.php,category=2;4
 

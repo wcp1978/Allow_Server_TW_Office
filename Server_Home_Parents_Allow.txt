@@ -7,3 +7,8 @@
 @@||yimg.com^$important
 @@||updates.logitech.com^$important
 @@||news.ebc.net.tw^$important
+
+! 20201025 FB
+@@||web.facebook.com^$important
+@@||graph.facebook.com^$important
+

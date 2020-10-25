@@ -11,4 +11,5 @@
 ! 20201025 FB
 @@||web.facebook.com^$important
 @@||graph.facebook.com^$important
-
+@@||facebook.com^$important
+@@||connect.facebook.net^$important

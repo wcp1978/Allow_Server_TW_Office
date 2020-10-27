@@ -2,7 +2,7 @@
 ! 實際使用上，出現部份誤攔的情況
 ! 針對這個情況，我對於台灣辦公室的使用，進行了優化
 ! 目前針對會被誤攔的防毒以及銀行進行放行的動作
-! Version:0.0.2 Update:2020/10/16
+! Version:0.0.2 Update:2020/10/27
 
 @@||resources.trendmicro.com^
 @@||yuanta.com.tw^

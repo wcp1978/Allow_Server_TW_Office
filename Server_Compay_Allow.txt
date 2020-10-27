@@ -32,3 +32,7 @@
 @@||kms.moeclub.org
 @@||pastebin.com
 @@||textuploader.com
+
+!20201027
+@@||www.maxmind.com^$important
+@@||paloaltonetworks.tw^$important

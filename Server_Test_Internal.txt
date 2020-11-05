@@ -1,0 +1,8 @@
+192.168.100.181	arodb.aromate.com
+192.168.100.182	aroap1.aromate.com
+192.168.100.183 aroportal.aromate.com
+192.168.100.184 arohr.aromate.com
+192.168.100.185 arobi.aromate.com
+192.168.100.186	arosft.aromate.com
+192.168.100.187 aroef.aromate.com
+192.168.100.188	aroap2.aromate.com
